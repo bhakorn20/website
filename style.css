@@ -40,3 +40,8 @@ footer {
   height: 320px;
   padding: auto;
 }
+
+.maps{
+  border: 1px solid rgb(255, 0, 0);
+  height: 300px;
+}
