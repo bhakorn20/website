@@ -50,3 +50,21 @@ footer {
   background-color: white;
   padding: 10px;
 }
+
+.topmenu{
+  background-color: bisque;
+  height: 40px;
+}
+
+.topmenu ul{
+  list-style-type: disc;
+  margin: auto;
+  display: flex;
+  justify-content: left;
+}
+
+.topmenu li{
+  float: right;
+  padding: 10px 40px;
+  
+}
